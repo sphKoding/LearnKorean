@@ -1,15 +1,29 @@
 * {
+ margin: 0px;
  /* padding: 5px; */
  color: #FFFFFF;
 }
 body {
- margin: 0px;
+ /* margin: 0px; */
  background: #000000;
  /* font-size: 15pt; */
 }
 
+/* text */
+/* h1 {
+ margin: 8px; 
+} */
+
 /* header */
 header {
+ /* height: 38px; */
+ /* margin: 0px; */ 
+ padding: 8px;
  background: #00887A;
- padding: 4px;
+ display: flex;
+}
+.menu {
+ width: 40px;
+ margin: 0px 8px 0px 0px;
+ /* background-image: url(3bars.png); */
 }
