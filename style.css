@@ -72,5 +72,8 @@ a {
  } 
  .grammar-list > li {
   width: 46%;
- } 
+ }
+ .dropdown {
+  width: 25%;
+ }
 }
