@@ -35,12 +35,14 @@ header {
 }
 li {
  margin: 7px 10px 7px 10px;
+ border: 1px solid white;
  border-radius: 8px;
  padding: 5px;
  background: #6E6F81;
 }
 .dropdown {
  width: 100%;
+ /* border: 1px solid white; */
  position: relative;
  display: inline-block;
 }
@@ -70,5 +72,8 @@ a {
  } 
  .grammar-list > li {
   width: 46%;
- } 
+ }
+ .dropdown {
+  width: 25%;
+ }
 }
