@@ -67,8 +67,8 @@ a {
   background-color: lightgreen;
  } */
  .grammar-list {
- display: flex;
- flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
  } 
  .grammar-list > li {
   width: 46%;
